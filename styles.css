@@ -1,0 +1,36 @@
+body {
+    box-sizing: border-box;
+    background-color: rgb(148, 159, 211);
+    font-family:Lucida Handwriting;
+    
+}
+    
+.box {
+    h1 {text-align: center; font-family:Brush Script MT ;}
+    background-color:rgb(31, 174, 174);
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 20px solid #050606;
+    border-style:inset;
+    border-color: rgb(13, 83, 83);
+}
+
+button {
+    font-family:Papyrus;
+    font-style: italic;
+    background-color:rgb(252, 118, 118);
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+ul {
+    font-style: italic;
+    list-style-type:circle;
+    padding: 5px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
